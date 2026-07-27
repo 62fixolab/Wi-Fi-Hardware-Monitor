@@ -15,13 +15,13 @@
 
 ## Gallery
 ### 3D Printed (SSD1306 Screen)
-[![Wi-Fi Hardware Monitor](https://juanillo62gm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F00-wifihm.1dcf9f72.jpg&w=2048&q=75)](https://juanillo62gm.com/projects/wifi-hardware-monitor)
+[![Wi-Fi Hardware Monitor](https://fixolab.dev/cdn-cgi/image/format=auto/posts/wifi-hardware-monitor/00-wifihm.jpg)](https://juanillo62gm.com/projects/wifi-hardware-monitor)
 
 ### ST7735 and SSD1306 Screens
-[![Wi-Fi Hardware Monitor](https://juanillo62gm.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F01-wifihm.5d3c9498.jpg&w=3840&q=75)](https://juanillo62gm.com/projects/wifi-hardware-monitor)
+[![Wi-Fi Hardware Monitor](https://fixolab.dev/posts/wifi-hardware-monitor/01-wifihm.jpg)](https://juanillo62gm.com/projects/wifi-hardware-monitor)
 
 ## Instructions and more images
-[Juanillo62gm Website](https://juanillo62gm.com/projects/wifi-hardware-monitor/)
+[FixoLab Website](https://fixolab.dev/blog/wifi-hardware-monitor)
 
 ## Inspired by
 ### Hardware Monitor by ModBros
